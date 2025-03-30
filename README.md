@@ -2,7 +2,7 @@
 API Testing with Postman scripting for Petstore API Collection
 
 **Overview**
-This repository contains a **Postman API collection** for testing the **Swagger Petstore API**. It includes:
+This repository contains a **Postman API collection** for testing the **Swagger Petstore API**, an open API used for practice. It includes:
 - API testing with Postman
 - Postman scripting (Pre-request & Test scripts)
 - Automation using Newman
